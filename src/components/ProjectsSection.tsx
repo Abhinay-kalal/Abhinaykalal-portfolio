@@ -19,6 +19,7 @@ const PROJECTS: ProjectData[] = [
     name: 'EvolveX Spaces',
     liveUrl: 'https://evolvexspaces-gold.vercel.app/',
     image: '/Forge2.png',
+    objectFit: 'contain',
   },
   {
     number: '02',
