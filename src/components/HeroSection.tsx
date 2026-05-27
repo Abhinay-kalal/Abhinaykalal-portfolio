@@ -104,7 +104,7 @@ const HeroSection = () => {
         loop
         playsInline
         preload="auto"
-        className="absolute inset-0 h-full w-full object-contain sm:object-cover bg-black"
+        className="absolute inset-0 h-full w-full object-cover"
         style={{ filter: 'contrast(1.05) brightness(1.05) saturate(1.02)' }}
       >
         <source src="/intro video.mp4" type="video/mp4" />
